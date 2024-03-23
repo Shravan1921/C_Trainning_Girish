@@ -1,0 +1,18 @@
+
+int main()
+{
+    int num1, num2, num3, num4, num5;
+    int sum, avg;
+    printf(enter 5 non);
+
+    scanf(%d %d %d %d %d, &num1, &num2, &num3, &num4, &num5);
+
+
+    sum = num1 + num2 + num3 + num4 + num5;
+
+avg = sum  5;
+
+printf(SUM %dn, sum);
+printf(Average  %5dn, avg);
+   
+}
